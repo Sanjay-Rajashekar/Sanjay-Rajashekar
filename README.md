@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sanjay-Rajashekar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Engineering in Information Science
-- 💞️ I’m looking to collaborate on anything related to coding
+- 👋 Hey, I’m @Sanjay-Rajashekar
+- 👀 interested in coding and financial markets
+- 🌱 currently pursuing Engineering in Information Science
 - 📫 How to reach me sanjaygr007@gmail.com
 
 <!---
