@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @Sanjay-Rajashekar
 - 👀 interested in coding and financial markets
 - 🌱 pursued Bachelors of  Engineering in Information Science
--     Currently working for Publicis Sapient
+-     Software Engineer
 - 📫 How to reach me sanjaygr007@gmail.com
 
 <!---
